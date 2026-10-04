@@ -1,0 +1,3 @@
+ec2edcdb38f4f927be68d9c3f84c7a7037980308c0cb1e0f5c4d6d6f66a490b9  READ_ME.md
+b688bbc7b16db99d3cadc614aa6aecab4132ae55de678789305d6e52c26bc3bb  app/build.gradle.kts
+c9ee7bc81e3cb2082bac69f5ca1ad7be640bdfd8fd9e030e9d48a20bd1f61637  app/src/main/java/au/com/kit/fitnesslogsync/MainActivity.kt
